@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Bilibili 主题自动跟随 (v2.6)
+// @name         Bilibili 主题自动跟随
 // @namespace    https://github.com/clen3zz/
-// @version      2.6
+// @version      2.6.1
 // @description  让 B 站网页版主题自动跟随系统深浅模式切换。
 // @author       clen3zz
 // @match        https://www.bilibili.com/*
