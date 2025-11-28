@@ -8,8 +8,8 @@
 // @match        https://search.bilibili.com/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/clen3zz/bilibili-theme-sync/main/bilibili-theme-sync.user.js
-// @downloadURL  https://raw.githubusercontent.com/clen3zz/bilibili-theme-sync/main/bilibili-theme-sync.user.js
+// @updateURL    https://raw.githubusercontent.com/clen3zz/bilibili-auto-dark/main/bilibili-theme-sync.user.js
+// @downloadURL  https://raw.githubusercontent.com/clen3zz/bilibili-auto-dark/main/bilibili-theme-sync.user.js
 // ==/UserScript==
 
 (function () {
